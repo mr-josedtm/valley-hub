@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/valley-hub/static/css/main.9df1d446.css",
-    "main.js": "/valley-hub/static/js/main.5fbe7199.js",
+    "main.js": "/valley-hub/static/js/main.75ecb8c5.js",
     "static/js/787.43d270d3.chunk.js": "/valley-hub/static/js/787.43d270d3.chunk.js",
     "static/media/tsc-logo.png": "/valley-hub/static/media/tsc-logo.94acf43430c18a00601f.png",
     "index.html": "/valley-hub/index.html",
     "main.9df1d446.css.map": "/valley-hub/static/css/main.9df1d446.css.map",
-    "main.5fbe7199.js.map": "/valley-hub/static/js/main.5fbe7199.js.map",
+    "main.75ecb8c5.js.map": "/valley-hub/static/js/main.75ecb8c5.js.map",
     "787.43d270d3.chunk.js.map": "/valley-hub/static/js/787.43d270d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9df1d446.css",
-    "static/js/main.5fbe7199.js"
+    "static/js/main.75ecb8c5.js"
   ]
 }
